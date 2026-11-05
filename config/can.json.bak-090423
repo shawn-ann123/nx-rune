@@ -1,0 +1,26 @@
+{
+  "can": {
+    "interface": "can0",
+    "rune_mode": 3,
+    "default_team": 0,
+    "require_buff_task_mode": 1,
+    "feedback_timeout_ms": 50,
+    "pair_tolerance_ms": 20,
+    "poll_timeout_ms": 4,
+    "reconnect_delay_ms": 500
+  },
+  "send": {
+    "period_ms": 10,
+    "result_timeout_ms": 100,
+    "shoot_buff_mode": 1,
+    "shoot_mode_when_fire": 3,
+    "yaw_scale": 1.0,
+    "pitch_scale": 1.0,
+    "yaw_offset_deg": 0.0,
+    "pitch_offset_deg": 0.0,
+    "yaw_min_deg": -180.0,
+    "yaw_max_deg": 180.0,
+    "pitch_min_deg": -45.0,
+    "pitch_max_deg": 45.0
+  }
+}

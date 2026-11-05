@@ -1,0 +1,12 @@
+{
+  "G_R_G_true": {
+    "Y_rotation_angle": 0.0,
+    "X_rotation_angle": 0.0
+  },
+  "transform": {
+    "x_offset": 0.0,
+    "y_offset": 0.0,
+    "z_offset": 70.0,
+    "camera_to_gimbal_rotation": [0.0, 0.0, 1.0, -1.0, 0.0, 0.0, 0.0, -1.0, 0.0]
+  }
+}

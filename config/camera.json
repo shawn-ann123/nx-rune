@@ -1,0 +1,19 @@
+{
+  "camera": {
+    "device": "",
+    "device_index": 0,
+    "pipeline": "",
+    "backend": "hikrobot",
+    "fourcc": "MJPG",
+    "width": 1280,
+    "height": 1024,
+    "fps": 210,
+    "buffer_size": 1,
+    "auto_exposure": -1.0,
+    "exposure": 5.0,
+    "gain": 10.0,
+    "flip_180": 1,
+    "capture_timeout_ms": 50,
+    "reconnect_delay_ms": 500
+  }
+}

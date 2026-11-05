@@ -1,0 +1,12 @@
+{
+  "rune_detect": {
+    "model": "openvino/model-0624.onnx",
+    "engine_cache": "tensorrt/model-0624-trt10.engine",
+    "fp16": true,
+    "workspace_size_mb": 1024,
+    "confidence_threshold": 0.65,
+    "keypoint_confidence_threshold": 0.5,
+    "nms_distance_threshold": 30.0,
+    "min_valid_keypoints": 5
+  }
+}

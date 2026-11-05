@@ -1,0 +1,8 @@
+config/.tuning-history/
+config/.tuning-transaction
+config/*.tuning.tmp
+build/
+build-ssh/
+output/
+logs/
+config/tensorrt/*.engine
